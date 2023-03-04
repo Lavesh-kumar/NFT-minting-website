@@ -45,9 +45,9 @@ const initOnboard = init({
      }
   ],
   appMetadata: {
-    name: 'BoredApes',
+    name: 'TheSpot Money Cup Game',
     icon: ApeIcon,
-    description: 'We are some bored apes',
+    description: 'We are some Cup Games',
     recommendedInjectedWallets: [
       { name: 'MetaMask', url: 'https://metamask.io' },
       { name: 'Coinbase', url: 'https://wallet.coinbase.com/' }
