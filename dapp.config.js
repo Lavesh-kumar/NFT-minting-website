@@ -1,7 +1,7 @@
 const config = {
   title: 'TheSpot.Money Cup Game',
   description: 'A community-driven RED CUP project by TheSpotDotMoney. 500 Red Cups mint per round each Red Cup allows its owner a 1 in 500 chance of getting 100X 60 Red Cups Win between 2X and 40X and all other CUPs will get a NFT Starter Pack from Blockchain Game Dev Team. Thanks for Helping us Build Blockchain Games TheSpotDotMoney',
-  contractAddress: '0x61F0199c7C33F96F4Eca12Cd4Cd8E84059d075E6',
+  contractAddress: '0xa66C22B3eBeceb27aF5689845445b5284F24b576',
   maxMintAmount: 10,
   presaleMaxMintAmount: 3,
   price: 25

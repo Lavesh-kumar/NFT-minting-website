@@ -13,7 +13,7 @@ const whitelist = require('./whitelist.js')
 async function main() {
   const nftFactory = await hre.ethers.getContractFactory('BoredApe')
   const nftContract = await nftFactory.attach(
-    '0x61F0199c7C33F96F4Eca12Cd4Cd8E84059d075E6' // Deployed contract address
+    '0xa66C22B3eBeceb27aF5689845445b5284F24b576' // Deployed contract address
   )
 
   // Re-calculate merkle root from the whitelist array.
